@@ -1,0 +1,12 @@
+{
+  "name": "hardonia/wp-retainly",
+  "description": "Predict & reduce churn in WooCommerce shops",
+  "type": "wordpress-plugin",
+  "license": "Apache-2.0",
+  "require": {
+    "php": ">=8.0"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^10.0"
+  }
+}
