@@ -1,5 +1,9 @@
 # WP Retainly
 
+<!-- BEGIN: REPO HERO -->
+![wp-retainly — hero generated locally on the GPU stack](assets/repo-hero.png)
+<!-- END: REPO HERO -->
+
 Predict & reduce churn in WooCommerce shops using AI-driven behavior signals.
 
 ## Features
